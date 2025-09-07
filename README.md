@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 
 <head>
@@ -51,7 +51,7 @@
     <section class="h-screen flex items-center justify-center text-center p-4" id="hero">
         <div class="relative w-full h-full flex flex-col md:flex-row items-center justify-center p-4 md:p-8">
             <div class="md:w-1/2 flex justify-center md:justify-end mb-8 md:mb-0 md:mr-8">
-                <img src="https://placehold.co/400x400/1E293B/ffffff?text=Image+de+pr%C3%A9sentation"
+                <img src="C:\Users\HP\Desktop\HTML\projet\png.jpg"
                     alt="Image de développeurs" class="rounded-lg shadow-lg max-w-full h-auto">
             </div>
             <div class="md:w-1/2 text-left">
@@ -84,7 +84,7 @@
                     CV</button>
             </div>
             <div class="md:w-1/2">
-                <img src="AP1GczPXAr30nyDTe_ws6okKgdIz-1h9ImD9juGlwjhuqG-MDmg_EhThrRC745wxB5XQ-DO7fcd8rNr__pb5IwJNDbkqZM8AeedIqTH1Z4KYmgwBI0MZBVegx8-fjBNyMWBuL-Wv5oBOXtJ4iBAzKeBfVuqV=w720-h890-s-no-gm.jpg"
+                <img src="C:\Users\HP\Desktop\HTML\projet\png.jpg"
                     alt="Photo de profil de Macaire AKIROKO"
                     class="rounded-full w-48 h-48 mx-auto shadow-xl border-4 border-cyan-500">
             </div>
